@@ -51,9 +51,9 @@ This project was developed as part of the Python course in the 1st semester. Spe
 ## Contact
 For any inquiries or feedback, please reach out to the project creator:
 
-Name: Juan Miguel Rojas Noriega
-Email: juan.noriega@correounivalle.edu.co
-Repository
-To access the project repository, visit: github.com/JuanMiguelRojas96/PROYECTOJUANMIGUEL
+### Name: Juan Miguel Rojas Noriega
+### Email: juan.noriega@correounivalle.edu.co
+## Repository
+### To access the project repository, visit: github.com/JuanMiguelRojas96/PROYECTOJUANMIGUEL
    
    
