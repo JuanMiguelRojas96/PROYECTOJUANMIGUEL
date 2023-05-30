@@ -24,9 +24,8 @@ Once you have Python installed, follow these steps:
 
 3. Run the program:
 
-```bash
- Copy code
- python main.py
+   ```bash
+   python main.py
 
 ## Usage
 Upon running the program, you will be presented with a terminal interface that guides you through various options such as creating a user, logging in, updating inventory, and processing sales. Simply follow the prompts and provide the necessary information as requested.
