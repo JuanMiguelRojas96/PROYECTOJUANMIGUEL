@@ -19,9 +19,8 @@ Once you have Python installed, follow these steps:
    git clone https://github.com/JuanMiguelRojas96/PROYECTOJUANMIGUEL.git
 2. Navigate to the project directory:
 
-```bash
- Copy code
- cd PROYECTOJUANMIGUEL
+   ```bash
+   cd PROYECTOJUANMIGUEL
 
 3. Run the program:
 
